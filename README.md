@@ -1,18 +1,16 @@
 # Vasily Argounov
 
-Interactive systems in the browser — from Raft consensus to GPU-driven physics.
+Playground to practice and experiment with AI-assisted programming.
 
 **[Explore the portfolio →](https://vasyapym.github.io)** · [Source & engineering notes](https://github.com/vasyapym/vasyapym.github.io) · [Email](mailto:vasyapym@gmail.com)
 
-## Six systems. One React site.
+## One react site.
 
-**[vasyapym.github.io](https://vasyapym.github.io)** is an engineering portfolio you can interact with: break a cluster, replay a run, walk a procedural forest, or scrub through cosmic history.
-
-Each project is a self-contained module with its own tests. The site and its source are MIT-licensed.
+Each project in **[vasyapym.github.io](https://vasyapym.github.io/)** is a self-contained module with its own tests.
 
 ### [Raft Cluster →](https://vasyapym.github.io/projects/raft-cluster/)
 
-Crash the leader or cut a link. Watch live Raft consensus respond and a new term get elected.
+Crash the leader or cut a link.
 
 **Underneath:** a Rust core compiled to WebAssembly, with a Canvas 2D view.
 
@@ -48,19 +46,10 @@ A working map for technical practice, connecting concept routes with exercises.
 
 ## How it fits together
 
-The shared shell stays separate from the projects:
-
 - **Module contract:** Vite/React discovers projects through a typed `ProjectModule` contract via `import.meta.glob`. Adding a project means adding a directory.
-- **Independent tests:** every project has its own tests.
 - **Custom landing hero:** a Canvas 2D “glyph field,” without WebGL or animation libraries.
 
 The foundation is **React 19, TypeScript, and Vite 7**, with **two Rust → WebAssembly crates**. npm workspaces organize the code; GitHub Actions and GitHub Pages handle delivery.
-
-## Decisions, not just demos
-
-Development is agent-assisted with **Claude Code and an open-source skills plugin**.
-
-Design changes are recorded in an **append-only decision graph**: 28 documented design passes, with quality gates and verification evidence.
 
 [Read the portfolio README for the architecture and development details →](https://github.com/vasyapym/vasyapym.github.io)
 
