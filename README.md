@@ -8,8 +8,6 @@ Every project in this repository is self-contained: its own code, its own look, 
 
 ## Projects
 
-Each entry gives the surface first, then what's underneath.
-
 | Project | What it is | Underneath |
 | --- | --- | --- |
 | **Waste of Tokens** | An archive of AI outputs, a lesson space, and an open playground. | Sectioned lessons, persistent notes, and review-note export - all local, no account required. |
