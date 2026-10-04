@@ -2,7 +2,7 @@
 
 > Tools, toys, and simulations.
 
-Live at [vasyapym.github.io](https://vasyapym.github.io).
+Live at [vasyapym.github.io](https://vasyapym.github.io). For the short version — what I work with and where I've worked — there's a one-page card at [vasyapym.onrender.com](https://vasyapym.onrender.com/), served from a small GraphQL + Postgres backend ([digital-card-api](https://github.com/vasyapym/digital-card-api)).
 
 Every project in this repository is self-contained: its own code, its own look, and - where it needs a real engine - its own Go or Rust core compiled to WebAssembly.
 
