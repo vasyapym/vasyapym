@@ -1,8 +1,8 @@
 Check out my [digital card, I guess.](https://vasyapym.onrender.com/)
 
-Less of a guess: [quiet-index](https://github.com/vasyapym/quiet-index) - 2,000+ notes, searched by meaning from a phone, behind a passphrase, nothing sent to any AI provider.
+[quiet-index](https://github.com/vasyapym/quiet-index) - 2,000+ notes, searched by meaning from a phone, behind a passphrase, nothing sent to any AI provider.
 
-Still mostly a guess: [hermitage-3d](https://github.com/vasyapym/hermitage-3d) - the Winter Palace (Hermitage) in three.js, facade from a typed grammar. Early phase.
+[hermitage-3d](https://hermitage-3d.pages.dev) - the Winter Palace (Hermitage) in three.js, facade from a typed grammar. Early phase.
 
 # vasyapym.github.io
 
