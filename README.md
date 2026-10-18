@@ -14,22 +14,9 @@ Every project has its own code, its own look, and - where it needs a real engine
 
 ## Projects
 
-**Productivity**
+**Useful:** [Quicknotes](https://vasyapym.github.io/projects/quicknotes/) (Markdown notes, synced across devices via Firebase) · [Waste of Tokens](https://vasyapym.github.io/projects/practice-map/) (an archive for AI outputs)
 
-- [Waste of Tokens](https://vasyapym.github.io/projects/practice-map/) - An archive of AI outputs with progress save.
-- [Quicknotes](https://vasyapym.github.io/projects/quicknotes/) - Local-first Markdown notes with instant sync across devices via Firebase.
-
-**Games**
-
-- [Cat Runner](https://vasyapym.github.io/projects/kitty-run/) - A pastel endless runner; inspired by both Hello Kitty and Dark Souls.
-- [Evening Forest](https://vasyapym.github.io/projects/evening-forest/) - An 8-bit first-person walk through a forest. With AI fox around and the vibes.
-
-**Everything else**
-
-- [Spine](https://vasyapym.github.io/projects/spine/) - Drag, nest, and retune Flexbox and Grid layouts in the browser.
-- [Raft Cluster](https://vasyapym.github.io/projects/raft-cluster/) - A consensus simulator.
-- [Explosion](https://vasyapym.github.io/projects/explosion/) - A paper-lantern moon detonates into 600 shards. And other explosion experiments.
-- [Planck to Now](https://vasyapym.github.io/projects/planck-to-now/) - Scrub through cosmic history.
+**Experiments:** [Cat Runner](https://vasyapym.github.io/projects/kitty-run/) (equal parts Hello Kitty and Dark Souls) · [Evening Forest](https://vasyapym.github.io/projects/evening-forest/) · [Spine](https://vasyapym.github.io/projects/spine/) · [Explosion](https://vasyapym.github.io/projects/explosion/) · [Raft Cluster](https://vasyapym.github.io/projects/raft-cluster/) · [Planck to Now](https://vasyapym.github.io/projects/planck-to-now/)
 
 ## The realm
 
