@@ -4,6 +4,8 @@ Check out my [digital card, I guess.](https://vasyapym.onrender.com/)
 
 - [quiet-index](https://github.com/vasyapym/quiet-index) - 2000++ notes, searched by meaning. Local multilingual model, fits in free-tier Postgres.
 
+- [bytecheck](https://github.com/vasyapym/bytecheck) - byte-exact verification of what an agent changed - model-invoked skill, stdlib Python file.
+
 # vasyapym.github.io
 
 > Tools, toys, and simulations.
