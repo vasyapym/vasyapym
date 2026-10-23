@@ -1,8 +1,8 @@
 Check out my [digital card, I guess.](https://vasyapym.onrender.com/)
 
-- [hermitage-3d](https://hermitage-3d.pages.dev) - the Winter Palace (Hermitage) in three.js, facade from a typed grammar.
+- [hermitage-3d](https://hermitage-3d.pages.dev) - the Winter Palace (Hermitage) in three.js, facade from a typed grammar. Pure geometry. May need a VPN for RU (Cloudflare).
 
-- [quiet-index](https://github.com/vasyapym/quiet-index) - 2,000+ notes, searched by meaning with multilingual model.
+- [quiet-index](https://github.com/vasyapym/quiet-index) - 2000++ notes, searched by meaning. Local multilingual model, fits in free-tier Postgres.
 
 # vasyapym.github.io
 
