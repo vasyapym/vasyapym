@@ -14,4 +14,4 @@ Every project has its own code, its own look, and - where it needs a real engine
 
 **Useful:** [Quicknotes](https://vasyapym.github.io/projects/quicknotes/) (Markdown notes, synced across devices via Firebase) · [Waste of Tokens](https://vasyapym.github.io/projects/practice-map/) (an archive for AI outputs)
 
-**Experiments:** [Cat Runner](https://vasyapym.github.io/projects/kitty-run/) (equal parts Hello Kitty and Dark Souls) · [Evening Forest](https://vasyapym.github.io/projects/evening-forest/) · [Spine](https://vasyapym.github.io/projects/spine/) · [Explosion](https://vasyapym.github.io/projects/explosion/) · [Raft Cluster](https://vasyapym.github.io/projects/raft-cluster/) · [Planck to Now](https://vasyapym.github.io/projects/planck-to-now/)
+**Experiments:** [Cat Runner](https://vasyapym.github.io/projects/kitty-run/) (equal parts Hello Kitty and Dark Souls) · [Spine](https://vasyapym.github.io/projects/spine/), etc.
