@@ -4,7 +4,7 @@ Check out my [digital card, I guess.](https://vasyapym.onrender.com/)
 
 - [quiet-index](https://github.com/vasyapym/quiet-index) - obsidian notes, indexed by meaning. Local model in Postgres.
 
-- [orchestrate](https://github.com/vasyapym/orchestrate) - smaller models' skill - loop reviews, diffs byte-checking, etc.
+- [orchestrate](https://github.com/vasyapym/orchestrate) - skill for smaller models - loop reviews, diffs byte-checking, etc.
 
 - [cinedigest](https://vasyapym.github.io/cinedigest/) - кино вечером в СПб.
 
